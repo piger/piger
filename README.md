@@ -15,10 +15,10 @@
 | ..    .    . /) /-:/,'::::_:',-'
 : . .     .   // / ,'):::_:',' ;
  \ .   .     // /,' /,-.','  ./
-  \ . .  `::./,// ,'' ,'   . /
-   `. .   . `;;;,/_.'' . . ,'
-    ,`. .   :;;' `:.  .  ,'
-   /   `-._,'  ..  ` _.-'
+  \ . .  `::./,// ,'' ,'   . /                   | Desmond: [showing Locke an Apple II computer]  Can you use this?
+   `. .   . `;;;,/_.'' . . ,'                    | Locke: I haven't seen one of these in twenty years!
+    ,`. .   :;;' `:.  .  ,'                      |
+   /   `-._,'  ..  ` _.-'                        |	"Lost: Adrift [2.2], Season Two"
   (     _,'``------''  SSt
    `--''
 ```
